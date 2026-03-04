@@ -1,4 +1,5 @@
-# FTIR ML Streamlit App (Railway-ready)
+# AI-Powered-Vibrational-Spectroscopy-for-Bone-Health
+
 
 ## Run locally
 ```bash
