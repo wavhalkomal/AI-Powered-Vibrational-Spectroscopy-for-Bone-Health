@@ -117,8 +117,13 @@ HERO_DEFAULT = "Background_1.jpg"     # ← local image file
 PAPER_IMAGE_PATH = "assets/paper.png" # optional page wallpaper
 
 # Fallback URLs if local files are missing
-HERO_FALLBACK_URL = "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1400&auto=format&fit=crop"
-PAPER_FALLBACK_URL = "https://images.unsplash.com/photo-1524820824462-64a7f3c6f42b?q=80&w=1200&auto=format&fit=crop"
+# HERO_FALLBACK_URL = "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1400&auto=format&fit=crop"
+# PAPER_FALLBACK_URL = "https://images.unsplash.com/photo-1524820824462-64a7f3c6f42b?q=80&w=1200&auto=format&fit=crop"
+
+HERO_FALLBACK_URL = "https://www.freepik.com/premium-photo/glowing-dna-strands-technological-background_246516446.htm#from_element=cross_selling__photo?q=80&w=1400&auto=format&fit=crop"
+PAPER_FALLBACK_URL = "https://www.freepik.com/premium-psd/human-dna-molecule-thread_417146727.htm#from_element=cross_selling__psd"
+
+
 
 # ======================END: Image paths (local file paths or URLs)==============================================================================
 
